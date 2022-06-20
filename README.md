@@ -11,7 +11,8 @@ I am a graduate student in Departamento de Astronomía de la Universidad de La S
 
 [![pmarchantc's github stats](https://github-readme-stats.vercel.app/api?username=pmarchantc&count_private=true&show_icons=true&theme=discord_old_blurple&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarchantc&theme=discord_old_blurple)](https://github.com/pmarchantc/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmarchantc&theme=discord_old_blurple)](https://github.com/pmarchantc/github-readme-stats)
+-->
 <!--
 **pmarchantc/pmarchantc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
