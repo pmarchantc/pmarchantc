@@ -1,12 +1,15 @@
 ### Hi there 👋 I'm Pamela Marchant Cortés ✨
 
-I am a graduate student in Departamento de Astronomía de la Universidad de La Serena.
+I am a PhD student in Departamento de Astronomía de la Universidad de La Serena.
 
 - :milky_way: I’m currently working in the search of galaxies in the Zone of Avoidance 
-- :open_book: I’m currently learning machine-learning methods and spectroscopy
+- :open_book: I’m currently learning about the use of AI's in astronomy
 - 📫 How to reach me:
-    - email: pamela.marchant@userena.cl
+    - Universuty email: pamela.marchant@userena.cl
+    - personal   email: p.marchantcortes.9@gmail.com
+    - ORCID: [https://orcid.org/0000-0002-0131-9297](url)
 - 💬 Ask me about anything!
+- 🔮 More: Love TTRPG, read and play games about fantasy worlds and magic systems
 
 
 [![pmarchantc's github stats](https://github-readme-stats.vercel.app/api?username=pmarchantc&count_private=true&show_icons=true&theme=discord_old_blurple&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
