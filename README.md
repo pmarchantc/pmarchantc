@@ -5,8 +5,7 @@ I am a PhD student in Departamento de Astronomía de la Universidad de La Serena
 - :milky_way: I’m currently working in the search of galaxies in the Zone of Avoidance 
 - :open_book: I’m currently learning about the use of AI's in astronomy
 - 📫 How to reach me:
-    - Universuty email: pamela.marchant@userena.cl
-    - personal   email: p.marchantcortes.9@gmail.com
+    - email: pamela.marchant@userena.cl
     - ORCID: [https://orcid.org/0000-0002-0131-9297](url)
 - 💬 Ask me about anything!
 - 🔮 More: Love TTRPG, read and play games about fantasy worlds and magic systems
